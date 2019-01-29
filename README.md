@@ -4,6 +4,10 @@ This is a game made with unity and google vr, for the propose of working on andr
 This a project of the subject 'Diseño de sistemas hipermedia' of the University of Cádiz. 
 Documentation has been provided.
 
+## Prerrequisites
+* **Google cardboards**
+* **Android dispositive (KitKat 4.4 version) with giroscope**
+
 ## Authors
 * **Aarón Arias Pérez**
 * **Carlos Guzmán Cabrera**
