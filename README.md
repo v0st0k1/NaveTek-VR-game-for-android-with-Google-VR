@@ -9,10 +9,10 @@ Documentation has been provided.
 * **Android dispositive (KitKat 4.4 version) with giroscope**
 
 ## Authors
-* **Aarón Arias Pérez**
-* **Carlos Guzmán Cabrera**
+* **Aarón Arias Pérez** [@aaronariasperez](https://github.com/aaronariasperez)
+* **Carlos Guzmán Cabrera** [@carlos_guzca](https://github.com/v0st0k1)
 * **Francisco Tomás Cruz Molina**
-* **Manuel Jesús Corbacho Sánchez**
+* **Manuel Jesús Corbacho Sánchez** [@mjcs-95](https://github.com/mjcs-95)
 
 ## Built With
 
